@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi there 👋<br>
+I'm Jonathan Ginzburg, a 16-year-old student at Magshimim\Mofet.<br>
+Passionate about Coding & Cyber.<br>
+Here to learn and contribute. 💻🚀<br>
 
-<!--
-**JonathanGinz/JonathanGinz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently expanding my understanding of Cyber-Security and gaining experience.
+- 🌱 Exploring deeper vulnerabilities with OWASP & TryHackMe.
+- 👯 Looking to apply my knowledge in real use cases.
+- 💬 Ask me about my past experience in volunteer bug hunting!
+- 📫 Reach me at jonathanginzburg.com (Contact Page)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Besides coding, I love playing the piano, especially Chopin!
